@@ -11,41 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Computational Biology & Medicine, Weill Cornell Medical College, 2022 (Expected)
+* M.S. in Bioinformatics and Computational Biology, University of Minnesota, 2017
+* B.A. in Behavioral Biology (Departmental Honors), Johns Hopkins University, 2014
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2016 - 2017: Research Assistant
+  * Mayo Clinic Center for Individualized Medicine
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* May 2015 - Aug 2015: Research Assistant
+  * University of Minnesota Bioheat and Mass Transfer Lab
+
+* June 2013 - May 2014: Research Assistant
+  * Johns Hopkins University Mind Brain Institute
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Cancer genomics
+* Single cell analysis
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
@@ -54,6 +43,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
