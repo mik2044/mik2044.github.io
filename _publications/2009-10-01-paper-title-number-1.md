@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Respiratory complex and tissue lineage drive recurrent mutations in tumour mtDNA"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2020-02-10-LungCancer-NatureMedicine
+excerpt: 'Mitochondrial DNA (mtDNA) encodes protein subunits and translational machinery required for oxidative phosphorylation (OXPHOS). Using repurposed whole-exome sequencing data, in the present study we demonstrate that pathogenic mtDNA mutations arise in tumours at a rate comparable to those in the most common cancer driver genes. We identify OXPHOS complexes as critical determinants shaping somatic mtDNA mutation patterns across tumour lineages. Loss-of-function mutations accumulate at an elevated rate specifically in complex I and often arise at specific homopolymeric hotspots. In contrast, complex V is depleted of all non-synonymous mutations, suggesting that impairment of ATP synthesis and mitochondrial membrane potential dissipation are under negative selection. Common truncating mutations and rarer missense alleles are both associated with a pan-lineage transcriptional programme, even in cancer types where mtDNA mutations are comparatively rare. Pathogenic mutations of mtDNA are associated with substantial increases in overall survival of colorectal cancer patients, demonstrating a clear functional relationship between genotype and phenotype. The mitochondrial genome is therefore frequently and functionally disrupted across many cancers, with major implications for patient stratification, prognosis and therapeutic development.'
+date: 2021-04-08
+venue: 'Nature Metabolism’
+paperurl: 'https://www.nature.com/articles/s42255-021-00378-8’
+citation: 'Gorelick, A. N. et al. Respiratory complex and tissue lineage drive recurrent mutations in tumour mtDNA. Nature Metabolism vol. 3 558–570 (2021).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Mitochondrial DNA (mtDNA) encodes protein subunits and translational machinery required for oxidative phosphorylation (OXPHOS). Using repurposed whole-exome sequencing data, in the present study we demonstrate that pathogenic mtDNA mutations arise in tumours at a rate comparable to those in the most common cancer driver genes. We identify OXPHOS complexes as critical determinants shaping somatic mtDNA mutation patterns across tumour lineages. Loss-of-function mutations accumulate at an elevated rate specifically in complex I and often arise at specific homopolymeric hotspots. In contrast, complex V is depleted of all non-synonymous mutations, suggesting that impairment of ATP synthesis and mitochondrial membrane potential dissipation are under negative selection. Common truncating mutations and rarer missense alleles are both associated with a pan-lineage transcriptional programme, even in cancer types where mtDNA mutations are comparatively rare. Pathogenic mutations of mtDNA are associated with substantial increases in overall survival of colorectal cancer patients, demonstrating a clear functional relationship between genotype and phenotype. The mitochondrial genome is therefore frequently and functionally disrupted across many cancers, with major implications for patient stratification, prognosis and therapeutic development.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://www.nature.com/articles/s42255-021-00378-8)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Gorelick, A. N. et al. Respiratory complex and tissue lineage drive recurrent mutations in tumour mtDNA. Nature Metabolism vol. 3 558–570 (2021).
