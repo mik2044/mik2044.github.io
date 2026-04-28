@@ -17,16 +17,16 @@ Education
 
 Work experience
 ======
-* 2024 - Present: Postdoctoral Fellow, TRIUMPH Program
+* Oct 2024 - Present: Postdoctoral Fellow, TRIUMPH Program
   * MD Anderson Cancer Center
 
-* 2024 - 2024: Postdoctoral Researcher
+* Jan 2024 - Sep 2024: Postdoctoral Researcher
   * Memorial Sloan Kettering Cancer Center
  
-* 2018 - 2023: Graduate Researcher
+* Sep 2018 - December 2023: Graduate Researcher
   * Memorial Sloan Kettering Cancer Center
 
-* 2016 - 2017: Research Assistant
+* June 2016 - June 2017: Research Assistant
   * Mayo Clinic Center for Individualized Medicine
 
 * May 2015 - Aug 2015: Research Assistant
@@ -34,6 +34,17 @@ Work experience
 
 * June 2013 - May 2014: Research Assistant
   * Johns Hopkins University Mind Brain Institute
+
+Extracurricular & Leadership experience
+======
+* April 2025 - Present: Communications Team Leader
+  * MD Anderson Cancer Center Postdoctoral Association Executive Committee
+
+* Feb 2020 - Feb 2023: Admissions Committee
+  * Memorial Sloan Kettering Cancer Center Computational Biology Summer Program
+
+* Sep 2016 - May 2017: Student Representative
+  * University of Minnesota Senate Committee on Equity, Access, and Diversity
 
 Skills
 ======
