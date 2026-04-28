@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Minsoo Kim"
 title_separator          : "-"
-name                     : &name "Minsoo Kim"
-description              : &description "PhD student at Weill Cornell Medical College"
+name                     : &name "Minsoo Kim, PhD"
+description              : &description "Postdoctoral Fellow at MD Anderson Cancer Center"
 url                      : https://mik2044.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mik2044.github.io"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Minsoo Kim"
+  name             : "Minsoo Kim, PhD"
   avatar           : "minsoo.png"
-  bio              : "PhD student at Weill Cornell Medical College"
-  location         : "New York, NY"
+  bio              : "Postdoctoral Fellow at MD Anderson Cancer Center"
+  location         : "Houston, TX"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           :
+  googlescholar    : "https://scholar.google.com/citations?user=cQsE_XcAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/minsoo-kim-58111812a/"
+  orcid            : "http://orcid.org/0000-0001-6754-094X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "minsoo_kim1"
+  twitter          :
   vine             :
   weibo            :
   xing             :
