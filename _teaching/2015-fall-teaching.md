@@ -1,6 +1,6 @@
 ---
 title: "STAT 3011: Introduction to Statistical Analysis"
-collection: Undergraduate course
+collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2015-fall-teaching
 venue: "University of Minnesota"
