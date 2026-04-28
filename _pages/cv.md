@@ -11,12 +11,21 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computational Biology & Medicine, Weill Cornell Medical College, 2022 (Expected)
+* Ph.D in Computational Biology & Medicine, Weill Cornell Medical College, 2023
 * M.S. in Bioinformatics and Computational Biology, University of Minnesota, 2017
 * B.A. in Behavioral Biology (Departmental Honors), Johns Hopkins University, 2014
 
 Work experience
 ======
+* 2024 - Present: Postdoctoral Fellow, TRIUMPH Program
+  * MD Anderson Cancer Center
+
+* 2024 - 2024: Postdoctoral Researcher
+  * Memorial Sloan Kettering Cancer Center
+ 
+* 2018 - 2023: Graduate Researcher
+  * Memorial Sloan Kettering Cancer Center
+
 * 2016 - 2017: Research Assistant
   * Mayo Clinic Center for Individualized Medicine
 
